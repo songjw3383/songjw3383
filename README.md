@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/CSS-e3c4a8?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Styled Components-4592af?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-226089?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Material UI-b0a48a?style=flat-square&logo=material-ui&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NodeJS-f3cba5?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-975a5e?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-453953?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-25161b?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Git-b0a48e?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/NodeJS-f3cba5?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-975a5e?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-453953?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Git-b0a48e?style=flat-square&logo=git&logoColor=white"/>
 
 <h4> My Profile 🎈 </h4>
 
